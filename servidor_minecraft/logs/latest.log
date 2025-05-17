@@ -1,185 +1,53 @@
-[22:29:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:29:22] [ServerMain/INFO]: Loaded 1175 recipes
-[22:29:23] [ServerMain/INFO]: Loaded 1276 advancements
-[22:29:24] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[22:29:24] [Server thread/INFO]: Loading properties
-[22:29:24] [Server thread/INFO]: Default game type: SURVIVAL
-[22:29:24] [Server thread/INFO]: Generating keypair
-[22:29:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:29:24] [Server thread/INFO]: Using epoll channel type
-[22:29:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:29:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:29:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:29:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:29:24] [Server thread/WARN]: Failed to load operators list: 
-com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "nahukkj"
-	at ayp.m(SourceFile:414) ~[server-1.20.6.jar:?]
-	at avi.f(SourceFile:124) ~[server-1.20.6.jar:?]
-	at aqa.A(SourceFile:93) ~[server-1.20.6.jar:?]
-	at aqa.<init>(SourceFile:28) ~[server-1.20.6.jar:?]
-	at aqb.e(SourceFile:170) ~[server-1.20.6.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:658) ~[server-1.20.6.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:275) ~[server-1.20.6.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[22:29:24] [Server thread/INFO]: Preparing level "world"
-[22:29:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:29:35] [Server thread/INFO]: Time elapsed: 2888 ms
-[22:29:35] [Server thread/INFO]: Done (10.993s)! For help, type "help"
-[22:29:35] [Server thread/INFO]: nahuukkj (/127.89.203.185:39687) lost connection: Disconnected
-[22:29:40] [Server thread/INFO]: nahuukkj[/127.89.203.185:58261] logged in with entity id 46 at (268.6878733809414, 15.0, -109.43540307143556)
-[22:29:40] [Server thread/INFO]: nahuukkj joined the game
-[22:31:05] [Server thread/INFO]: Njasa4k[/127.89.203.185:54331] logged in with entity id 431 at (13.976600070119826, 83.0, -6.118214193297296)
-[22:31:05] [Server thread/INFO]: Njasa4k joined the game
-[22:31:43] [Server thread/INFO]: Njasa4k fell from a high place
-[22:32:44] [Server thread/INFO]: [Not Secure] <Njasa4k> 1 80 3
-[22:32:53] [Server thread/INFO]: nahuukkj lost connection: Disconnected
-[22:32:53] [Server thread/INFO]: nahuukkj left the game
-[22:33:02] [Server thread/INFO]: nahuukkj[/127.89.203.185:46427] logged in with entity id 1210 at (26.34944496616559, 81.0, -1.9089070517131899)
-[22:33:02] [Server thread/INFO]: nahuukkj joined the game
-[22:33:17] [Server thread/INFO]: [Not Secure] <Njasa4k> 1 80 -3
-[22:33:22] [Server thread/INFO]: Njasa4k was slain by nahuukkj
-[22:34:02] [Server thread/INFO]: nahuukkj lost connection: Timed out
-[22:34:02] [Server thread/INFO]: nahuukkj left the game
-[22:34:13] [Server thread/INFO]: nahuukkj[/127.89.203.185:49759] logged in with entity id 1559 at (112.01313150498862, 61.166212998027284, -77.21270961584031)
-[22:34:13] [Server thread/INFO]: nahuukkj joined the game
-[22:39:26] [Server thread/INFO]: Njasa4k has made the advancement [Hot Stuff]
-[22:40:21] [Server thread/INFO]: nahuukkj was slain by Njasa4k
-[22:40:40] [Server thread/INFO]: [Not Secure] <Njasa4k> 8 64 -280
-[22:42:12] [Server thread/INFO]: nahuukkj lost connection: Disconnected
-[22:42:12] [Server thread/INFO]: nahuukkj left the game
-[22:42:17] [Server thread/INFO]: nahuukkj[/127.89.203.185:41083] logged in with entity id 3706 at (7.699999988079071, 63.0, -280.69999998807907)
-[22:42:17] [Server thread/INFO]: nahuukkj joined the game
-[22:42:49] [Server thread/INFO]: nahuukkj lost connection: Disconnected
-[22:42:49] [Server thread/INFO]: nahuukkj left the game
-[22:43:16] [Server thread/INFO]: nahuukkj[/127.236.255.246:54237] logged in with entity id 3903 at (1.7419856312557183, 65.0, -281.2866542465327)
-[22:43:16] [Server thread/INFO]: nahuukkj joined the game
-[22:47:27] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[22:47:27] [Server thread/INFO]: Njasa4k left the game
-[22:47:34] [Server thread/INFO]: Njasa4k[/127.89.203.185:47215] logged in with entity id 5082 at (9.859294311507961, 64.0, -279.93469368352964)
-[22:47:34] [Server thread/INFO]: Njasa4k joined the game
-[22:48:41] [Server thread/INFO]: nahuukkj has made the advancement [Sweet Dreams]
-[22:48:50] [Server thread/INFO]: Njasa4k has made the advancement [Sweet Dreams]
-[22:48:52] [Server thread/INFO]: [Not Secure] <Njasa4k> xd
-[22:48:53] [Server thread/INFO]: [Not Secure] <Njasa4k> lol
-[22:53:13] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[22:53:13] [Server thread/INFO]: Njasa4k left the game
-[22:53:19] [Server thread/INFO]: Njasa4k[/127.89.203.185:38249] logged in with entity id 6847 at (4.599727007653968, 64.0, -278.1096733484744)
-[22:53:19] [Server thread/INFO]: Njasa4k joined the game
-[22:53:44] [Server thread/INFO]: nahuukkj has made the advancement [We Need to Go Deeper]
-[22:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4063ms or 81 ticks behind
-[22:53:51] [Server thread/INFO]: Njasa4k has made the advancement [We Need to Go Deeper]
-[22:55:12] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[22:55:12] [Server thread/INFO]: Njasa4k left the game
-[22:55:17] [Server thread/INFO]: Njasa4k[/127.89.203.185:48513] logged in with entity id 7611 at (6.8211223025383125, 64.0, -278.5958398316406)
-[22:55:17] [Server thread/INFO]: Njasa4k joined the game
-[22:55:48] [Server thread/INFO]: nahuukkj has completed the challenge [Return to Sender]
-[22:56:47] [Server thread/INFO]: Njasa4k lost connection: Timed out
-[22:56:47] [Server thread/INFO]: Njasa4k left the game
-[22:56:55] [Server thread/INFO]: Njasa4k[/127.89.203.185:50409] logged in with entity id 7959 at (-0.2232087168289159, 70.0, -40.899716633683575)
-[22:56:55] [Server thread/INFO]: Njasa4k joined the game
-[22:57:49] [Server thread/INFO]: Njasa4k fell from a high place
-[22:59:31] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[22:59:31] [Server thread/INFO]: Njasa4k left the game
-[22:59:42] [Server thread/INFO]: Njasa4k[/127.89.203.185:42823] logged in with entity id 8620 at (-113.8734109817452, 41.0, 23.69999998807907)
-[22:59:42] [Server thread/INFO]: Njasa4k joined the game
-[23:01:32] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:01:32] [Server thread/INFO]: Njasa4k left the game
-[23:01:39] [Server thread/INFO]: Njasa4k[/127.89.203.185:51473] logged in with entity id 8840 at (-97.13427432580409, 49.0, 17.03077521014164)
-[23:01:39] [Server thread/INFO]: Njasa4k joined the game
-[23:02:44] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:02:44] [Server thread/INFO]: Njasa4k left the game
-[23:02:49] [Server thread/INFO]: Njasa4k[/127.89.203.185:49165] logged in with entity id 9020 at (-62.69999998807907, 51.0, -75.69999998807907)
-[23:02:49] [Server thread/INFO]: Njasa4k joined the game
-[23:05:13] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:05:13] [Server thread/INFO]: Njasa4k left the game
-[23:05:20] [Server thread/INFO]: Njasa4k[/127.89.203.185:41113] logged in with entity id 9294 at (37.969378249479206, 41.0, -168.4159659429392)
-[23:05:20] [Server thread/INFO]: Njasa4k joined the game
-[23:05:41] [Server thread/INFO]: nahuukkj has made the advancement [A Terrible Fortress]
-[23:05:42] [Server thread/INFO]: Njasa4k has made the advancement [A Terrible Fortress]
-[23:06:04] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:06:04] [Server thread/INFO]: Njasa4k left the game
-[23:06:11] [Server thread/INFO]: nahuukkj has made the advancement [Into Fire]
-[23:06:28] [Server thread/INFO]: Njasa4k[/127.89.203.185:53031] logged in with entity id 9417 at (80.88370539720339, 65.0, -119.42232587261746)
-[23:06:28] [Server thread/INFO]: Njasa4k joined the game
-[23:06:53] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:06:53] [Server thread/INFO]: Njasa4k left the game
-[23:06:58] [Server thread/INFO]: Njasa4k[/127.89.203.185:48437] logged in with entity id 9460 at (88.69837630510995, 62.0, -164.1651023051291)
-[23:06:58] [Server thread/INFO]: Njasa4k joined the game
-[23:08:07] [Server thread/INFO]: Njasa4k has made the advancement [Into Fire]
-[23:08:15] [Server thread/INFO]: nahuukkj lost connection: Disconnected
-[23:08:15] [Server thread/INFO]: nahuukkj left the game
-[23:08:20] [Server thread/INFO]: nahuukkj[/127.236.255.246:33637] logged in with entity id 9602 at (125.69999998807907, 62.0, -169.69999998807907)
-[23:08:20] [Server thread/INFO]: nahuukkj joined the game
-[23:08:22] [Server thread/INFO]: nahuukkj lost connection: Disconnected
-[23:08:22] [Server thread/INFO]: nahuukkj left the game
-[23:08:28] [Server thread/INFO]: nahuukkj[/127.236.255.246:56775] logged in with entity id 9627 at (125.69999998807907, 62.0, -169.69999998807907)
-[23:08:28] [Server thread/INFO]: nahuukkj joined the game
-[23:08:48] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:08:48] [Server thread/INFO]: Njasa4k left the game
-[23:08:58] [Server thread/INFO]: Njasa4k[/127.89.203.185:49327] logged in with entity id 9681 at (125.33969042920018, 62.0, -166.7667800649783)
-[23:08:58] [Server thread/INFO]: Njasa4k joined the game
-[23:09:03] [Server thread/INFO]: Njasa4k was slain by Blaze
-[23:09:35] [Server thread/INFO]: nahuukkj was burned to a crisp while fighting Blaze
-[23:11:25] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:11:25] [Server thread/INFO]: Njasa4k left the game
-[23:11:27] [Server thread/INFO]: nahuukkj was slain by Piglin
-[23:11:32] [Server thread/INFO]: Njasa4k[/127.89.203.185:47051] logged in with entity id 10820 at (58.24178449448597, 56.0, -149.30000001192093)
-[23:11:32] [Server thread/INFO]: Njasa4k joined the game
-[23:11:41] [Server thread/INFO]: Njasa4k was slain by Piglin
-[23:11:48] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:11:48] [Server thread/INFO]: Njasa4k left the game
-[23:11:59] [Server thread/INFO]: Njasa4k[/127.89.203.185:47673] logged in with entity id 11180 at (75.70564222082722, 66.0, -130.15332036716433)
-[23:11:59] [Server thread/INFO]: Njasa4k joined the game
-[23:12:19] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:12:19] [Server thread/INFO]: Njasa4k left the game
-[23:12:27] [Server thread/INFO]: Njasa4k[/127.89.203.185:49677] logged in with entity id 11447 at (18.912998695952023, 65.0, -282.2636969938588)
-[23:12:27] [Server thread/INFO]: Njasa4k joined the game
-[23:14:01] [Server thread/INFO]: Njasa4k burned to death
-[23:14:01] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:14:01] [Server thread/INFO]: Njasa4k left the game
-[23:14:10] [Server thread/INFO]: Njasa4k[/127.89.203.185:58421] logged in with entity id 11911 at (110.92628716004796, 59.0, -160.48254892908233)
-[23:14:10] [Server thread/INFO]: Njasa4k joined the game
-[23:15:16] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:15:16] [Server thread/INFO]: Njasa4k left the game
-[23:15:22] [Server thread/INFO]: Njasa4k[/127.89.203.185:33187] logged in with entity id 12374 at (85.53918779594284, 65.0, -161.15567714661282)
-[23:15:22] [Server thread/INFO]: Njasa4k joined the game
-[23:15:30] [Server thread/INFO]: Njasa4k was fireballed by Blaze
-[23:15:57] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:15:57] [Server thread/INFO]: Njasa4k left the game
-[23:17:10] [Server thread/INFO]: nahuukkj was burned to a crisp while fighting Blaze
-[23:18:09] [Server thread/INFO]: nahuukkj was slain by Piglin
-[23:18:34] [Server thread/INFO]: nahuukkj fell from a high place
-[23:19:27] [Server thread/INFO]: Njasa4k[/127.89.203.185:51789] logged in with entity id 14448 at (0.7465432610203321, 57.0, -72.55279464817316)
-[23:19:27] [Server thread/INFO]: Njasa4k joined the game
-[23:20:12] [Server thread/INFO]: Njasa4k was slain by Piglin
-[23:21:15] [Server thread/INFO]: Njasa4k was shot by Piglin
-[23:23:10] [Server thread/INFO]: nahuukkj was fireballed by Blaze
-[23:23:22] [Server thread/INFO]: Njasa4k was burned to a crisp while fighting Blaze
-[23:24:11] [Server thread/INFO]: nahuukkj was slain by Magma Cube
-[23:24:38] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:24:38] [Server thread/INFO]: Njasa4k left the game
-[23:24:46] [Server thread/INFO]: Njasa4k[/127.89.203.185:36697] logged in with entity id 16627 at (119.18521567770688, 59.0, -161.69999998807907)
-[23:24:46] [Server thread/INFO]: Njasa4k joined the game
-[23:25:08] [Server thread/INFO]: nahuukkj was fireballed by Blaze
-[23:27:21] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:27:21] [Server thread/INFO]: Njasa4k left the game
-[23:27:27] [Server thread/INFO]: Njasa4k[/127.89.203.185:43175] logged in with entity id 17268 at (20.581494721298398, 40.0, -145.30000001192093)
-[23:27:27] [Server thread/INFO]: Njasa4k joined the game
-[23:31:17] [Server thread/INFO]: [Not Secure] <nahuukkj> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23:31:19] [Server thread/INFO]: [Not Secure] <Njasa4k> PENE
-[23:35:24] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:35:24] [Server thread/INFO]: Njasa4k left the game
-[23:35:32] [Server thread/INFO]: Njasa4k[/127.89.203.185:51211] logged in with entity id 20415 at (-514.8864418603722, 71.0, -790.6500125911476)
-[23:35:32] [Server thread/INFO]: Njasa4k joined the game
-[23:37:55] [Server thread/INFO]: Njasa4k lost connection: Disconnected
-[23:37:55] [Server thread/INFO]: Njasa4k left the game
-[23:38:02] [Server thread/INFO]: Njasa4k[/127.89.203.185:60925] logged in with entity id 20745 at (-521.3076101532638, 71.0, -782.9595008078685)
-[23:38:02] [Server thread/INFO]: Njasa4k joined the game
-[23:38:58] [Server thread/WARN]: Njasa4k moved wrongly!
-[23:39:12] [Server thread/INFO]: nahuukkj fell from a high place
+[23:43:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:43:23] [ServerMain/INFO]: Loaded 1175 recipes
+[23:43:23] [ServerMain/INFO]: Loaded 1276 advancements
+[23:43:24] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[23:43:24] [Server thread/INFO]: Loading properties
+[23:43:24] [Server thread/INFO]: Default game type: SURVIVAL
+[23:43:24] [Server thread/INFO]: Generating keypair
+[23:43:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:43:24] [Server thread/INFO]: Using epoll channel type
+[23:43:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:43:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:43:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:43:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:43:24] [Server thread/INFO]: Preparing level "world"
+[23:43:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:33] [Server thread/INFO]: Time elapsed: 2956 ms
+[23:43:33] [Server thread/INFO]: Done (9.192s)! For help, type "help"
+[23:43:33] [Server thread/INFO]: nahuukkj (/127.236.255.246:35433) lost connection: Disconnected
+[23:43:38] [Server thread/INFO]: nahuukkj[/127.236.255.246:58995] logged in with entity id 40 at (6.699999988079071, 84.0, 4.390752256153296)
+[23:43:38] [Server thread/INFO]: nahuukkj joined the game
+[23:43:57] [Server thread/INFO]: Njasa4k[/127.89.203.185:33303] logged in with entity id 249 at (-624.6999999880791, 27.0, -637.6197167112881)
+[23:43:57] [Server thread/INFO]: Njasa4k joined the game
+[23:44:08] [Server thread/INFO]: Made nahuukkj a server operator
+[23:44:20] [Server thread/INFO]: [nahuukkj: Teleported nahuukkj to Njasa4k]
+[23:44:47] [Server thread/INFO]: [nahuukkj: Gamerule keepInventory is now set to: true]
+[23:45:06] [Server thread/INFO]: Njasa4k was killed
+[23:45:06] [Server thread/INFO]: [nahuukkj: Killed Njasa4k]
+[23:45:29] [Server thread/INFO]: Njasa4k fell from a high place
+[23:45:40] [Server thread/INFO]: Njasa4k fell from a high place
+[23:46:43] [Server thread/INFO]: Njasa4k lost connection: Timed out
+[23:46:43] [Server thread/INFO]: Njasa4k left the game
+[23:46:43] [Server thread/WARN]: handleDisconnection() called twice
+[23:46:51] [Server thread/INFO]: Njasa4k[/127.89.203.185:58585] logged in with entity id 851 at (-626.7021317793001, -24.418819292825113, -630.4350502595123)
+[23:46:51] [Server thread/INFO]: Njasa4k joined the game
+[23:47:38] [Server thread/INFO]: Njasa4k lost connection: Disconnected
+[23:47:38] [Server thread/INFO]: Njasa4k left the game
+[23:47:44] [Server thread/INFO]: Njasa4k[/127.89.203.185:59613] logged in with entity id 942 at (-624.1000351496529, -19.0, -643.6630239850537)
+[23:47:44] [Server thread/INFO]: Njasa4k joined the game
+[23:51:04] [Server thread/INFO]: Njasa4k lost connection: Disconnected
+[23:51:04] [Server thread/INFO]: Njasa4k left the game
+[23:51:11] [Server thread/INFO]: Njasa4k[/127.89.203.185:46119] logged in with entity id 1717 at (-605.7053566156167, -19.0, -680.0661811355325)
+[23:51:11] [Server thread/INFO]: Njasa4k joined the game
+[23:51:51] [Server thread/INFO]: nahuukkj was impaled on a stalagmite
+[23:52:04] [Server thread/INFO]: [nahuukkj: Teleported nahuukkj to Njasa4k]
+[23:52:26] [Server thread/INFO]: Njasa4k fell from a high place
+[23:52:34] [Server thread/INFO]: [nahuukkj: Teleported Njasa4k to nahuukkj]
+[23:52:50] [Server thread/INFO]: nahuukkj has made the advancement [Diamonds!]
