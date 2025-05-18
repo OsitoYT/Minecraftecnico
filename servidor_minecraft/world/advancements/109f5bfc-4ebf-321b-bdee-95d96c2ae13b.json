@@ -261,7 +261,8 @@
       "minecraft:skeleton": "2025-05-16 23:56:42 +0000",
       "minecraft:piglin": "2025-05-17 23:04:26 +0000",
       "minecraft:spider": "2025-05-16 23:52:01 +0000",
-      "minecraft:zombie": "2025-05-16 23:57:12 +0000"
+      "minecraft:zombie": "2025-05-16 23:57:12 +0000",
+      "minecraft:creeper": "2025-05-17 23:58:14 +0000"
     },
     "done": false
   },
@@ -1473,6 +1474,24 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-17 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-17 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-17 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-17 23:52:26 +0000"
     },
     "done": true
   },
